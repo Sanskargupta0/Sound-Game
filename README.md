@@ -13,7 +13,7 @@
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://sanskargupta0.github.io/Sound-Game/).
 
 ## Features
 
@@ -26,7 +26,7 @@ Check out the live demo [here]().
 To run the game locally, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/sound-color-game.git
+git clone https://github.com/Sanskargupta0/Sound-Game
 ```
 Open the index.html file in your web browser.
 
